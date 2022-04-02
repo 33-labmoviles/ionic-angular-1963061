@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { AlumnoDetalleComponentModule } from '../alumno-detalle/alumno-detalle.component.module';
 import { TabsPage } from './tabs.page';
 
 const routes: Routes = [
@@ -32,7 +33,6 @@ const routes: Routes = [
     pathMatch: 'full'
   }
 ];
-
 @NgModule({
   imports: [RouterModule.forChild(routes)],
 })
