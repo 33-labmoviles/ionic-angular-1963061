@@ -13,58 +13,58 @@ export class Tab1Page implements OnChanges {
     {
       "nombre": "Abraham",
       "apellido": "Ramirez",
-      "matricula": "ABC123"
+      "matricula": "ABC1i"
     },
     {
       "nombre": "Aylin",
       "apellido": "Demecti",
-      "matricula": "ABC123"
+      "matricula": "123k"
     },
     
     {
       "nombre": "Diego",
       "apellido": "Davila",
-      "matricula": "ABC123"
+      "matricula": "ABC3"
     },
     {
       "nombre": "Diego",
       "apellido": "Jasso",
-      "matricula": "ABC123"
+      "matricula": "A123"
     },
     {
       "nombre": "Julio",
       "apellido": "Luevano",
-      "matricula": "ABC123"
+      "matricula": "BC1"
     },
     {
       "nombre": "Luis Armando",
       "apellido": "Villanueva",
-      "matricula": "ABC123"
+      "matricula": "A23"
     },
     {
       "nombre": "Luis Otoniel",
       "apellido": "Tamez",
-      "matricula": "ABC123"
+      "matricula": "AB23"
     },
     {
       "nombre": "Rogel Axel",
       "apellido": "Guel",
-      "matricula": "ABC123"
+      "matricula": "ABC1"
     },
     {
       "nombre": "Sergio",
       "apellido": "Gutierrez",
-      "matricula": "ABC123"
+      "matricula": "oskdad"
     },
     {
       "nombre": "Omar",
       "apellido": "Garza",
-      "matricula": "ABC123"
+      "matricula": "2222fsd"
     },
     {
       "nombre": "Bryan",
       "apellido": "Castillo",
-      "matricula": "ABC123"
+      "matricula": "ddde"
     },
     
   
